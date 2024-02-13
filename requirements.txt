@@ -1,1 +1,9 @@
 langchain
+python-dotenv
+bs4
+openai
+pinecone-client
+langchain-openai
+rapidocr-onnxruntime
+langchain-community
+pypdf
