@@ -7,3 +7,4 @@ langchain-openai
 rapidocr-onnxruntime
 langchain-community
 pypdf
+ipykernel
