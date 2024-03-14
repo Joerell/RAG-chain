@@ -8,6 +8,6 @@ OPENAI_API_KEY = "..."
 PINECONE_API_KEY = "..."
 ```
 
-## Make sure to upload your PDF file you want to embed within the same directory of the project.
+## Make sure to store your PDF file that you want to embed within the same directory of the project.
 
 ### That's all thank you. :)
